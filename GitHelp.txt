@@ -1,0 +1,17 @@
+Команды для регистрации ваших данных
+git config --global user.name "arzy-54-2"
+git config --global user.email "some_emal@gmail.com"
+============================================================
+git init
+git remote add origin https://github.com/arzy-54-2/oop-61-2.git
+===============================================================
+
+
+
+git status
+
+
+
+
+
+
