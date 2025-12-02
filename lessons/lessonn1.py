@@ -23,6 +23,8 @@ my_text_2 = "Just text 2"
 my_int = 123
 my_list = (1,2,3,45)
 
+my_list_2 = (1,2,3,45)
+
 # print(type(kirito))
 # print(type(my_text))
 # print(my_text)
