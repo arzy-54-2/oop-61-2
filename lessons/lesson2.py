@@ -105,3 +105,6 @@ class Snake:
 # 3. Полиморфизм через перегрузку операторов (ad-hoc polymorphism)
 # print(5 + 5)
 # print("5" + "5")
+# print("5" + "5")
+# print("5" + "5")
+# print("5" + "5")
