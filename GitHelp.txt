@@ -50,4 +50,7 @@ git commit -m "update: fbvgaedjckanlsjkdx"
 git commit -m "fix: hdfejwdbhjwe"
 git commit -m "hotfix: "
 
+git restore путь         откат изменений
+git reset пть            удаление после git add
+git reset --mixed HEAD~1   удаление последнего коммита
 
