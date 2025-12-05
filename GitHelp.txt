@@ -26,4 +26,28 @@ git branch название_ветки
 
 git merge название ветки
 
+git switch название ветки        для переключение на ветку
+git checkout название ветки
+
+git checkout -b название ветки
+git switch -c название ветки    для создания ветки и переключения на нее
+
+prod
+
+reseal
+
+test
+stage|dev|test
+dev
+
+feat/login
+feat/register
+feat/comment
+
+
+git commit -m "feat: fjdnfhaudhcuah"
+git commit -m "update: fbvgaedjckanlsjkdx"
+git commit -m "fix: hdfejwdbhjwe"
+git commit -m "hotfix: "
+
 
