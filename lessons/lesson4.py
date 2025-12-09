@@ -75,6 +75,8 @@ class Money:
         return data
 
     def __add__(self, other):
+        if type(self) == type(other):
+            pass
         if self.currency != other.currency:
             data = self.__to_som(other)
         return self.amount + other.amount
