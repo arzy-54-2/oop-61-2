@@ -36,6 +36,14 @@ prod
 
 reseal
 
+python
+py                -m venv name_venv
+python3
+
+
+.venv\Scripts\activate        - Для Винды
+source .venv/bin/activate     - Для мака или линукс
+
 test
 stage|dev|test
 dev
