@@ -111,4 +111,10 @@ class Snake:
 # print("5" + "5")
 # print("5" + "5")
 # print("5" + "5")
+
+
+sdasdsfeasdd
+cas
+fcntlsdafc
+as
 # print("5" + "5")
